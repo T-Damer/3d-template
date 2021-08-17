@@ -4,11 +4,12 @@ Built with _three.js_ and _Vite_
 
 ---
 
-## Steps to install
+## Steps to launch locally
 
 1. `git clone https://github.com/T-Damer/3d-template.git`
 2. `cd 3d-template`
-3.
+3. `npm i` | `yarn`
+4. `npm run dev`
 
 ---
 
