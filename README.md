@@ -4,6 +4,12 @@ Built with _three.js_ and _Vite_
 
 ---
 
+# Demo
+
+![demo](template-demo.gif)
+
+---
+
 ## Steps to launch locally
 
 1. `git clone https://github.com/T-Damer/3d-template.git`
